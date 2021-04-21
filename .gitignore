@@ -6,3 +6,5 @@
 **.pdf
 **/material
 **.sh
+/Java**/.idea/
+/Java**/out/

@@ -4,5 +4,5 @@
 # Excluindo arquivos .pdf
 
 **.pdf
-!/material
+**/material
 **.sh
